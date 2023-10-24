@@ -8,7 +8,7 @@
 
 `helm repo update`
 
-## Install helm 
+## Install prometheus controller 
 
 `helm install prometheus prometheus-community/prometheus`
 
