@@ -1,6 +1,6 @@
 # Install using Helm
 
-## Add helm repo
+## Add grafana helm-chart using helm repo
 
 `helm repo add grafana https://grafana.github.io/helm-charts`
 
@@ -8,7 +8,7 @@
 
 `helm repo update`
 
-## Install helm 
+## Install grafana using the grafana helm-chart 
 
 `helm install grafana grafana/grafana`
 
